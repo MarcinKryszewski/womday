@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/womday/static/css/main.e1c33b2b.css",
-    "main.js": "/womday/static/js/main.b85b3401.js",
+    "main.css": "/womday/static/css/main.c2916aeb.css",
+    "main.js": "/womday/static/js/main.3be84f3f.js",
     "static/media/Untitled2.png": "/womday/static/media/Untitled2.3b403c298a2f3b3e3d22.png",
     "static/media/Untitled3.png": "/womday/static/media/Untitled3.3594a8c3fee2b6b7174b.png",
     "index.html": "/womday/index.html",
-    "main.e1c33b2b.css.map": "/womday/static/css/main.e1c33b2b.css.map",
-    "main.b85b3401.js.map": "/womday/static/js/main.b85b3401.js.map"
+    "main.c2916aeb.css.map": "/womday/static/css/main.c2916aeb.css.map",
+    "main.3be84f3f.js.map": "/womday/static/js/main.3be84f3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1c33b2b.css",
-    "static/js/main.b85b3401.js"
+    "static/css/main.c2916aeb.css",
+    "static/js/main.3be84f3f.js"
   ]
 }
